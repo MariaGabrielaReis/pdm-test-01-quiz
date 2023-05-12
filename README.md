@@ -1,6 +1,6 @@
-<h1 align="center"> 🏍️ Maby Motorcycles 🏍️ </h1>
+<h1 align="center"> Simulado: Avaliação 01</h1>
 
-### Simulado: Avaliação 01
+> **Disciplina**: Programação para Dispositivos Móveis II
 
 Implemente um aplicativo que permita aplicar uma avaliação e em seguida efetuar a correção automática.
 As questões são de "alternativas", com apenas uma das alternativas corretas. As questões devem ser armazenadas e devem ter a seguinte estrutura: </br>
